@@ -1,7 +1,5 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
-AJAY S (252225050002)
-
 **AIM:**
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
@@ -38,27 +36,39 @@ It is the look-back resistance across the load terminals when all the sources ar
 
 To measure IL
 
-<img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
+
+![WhatsApp Image 2026-03-26 at 6 41 49 PM](https://github.com/user-attachments/assets/11216459-e4ec-4e57-b675-d4b361c6ff31)
+
 
 To measure RTh or RN
 
-<img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
+
+![WhatsApp Image 2026-03-26 at 6 41 56 PM](https://github.com/user-attachments/assets/e21b3a3b-4bce-44e6-bddd-32346cdeb76f)
+
 
 To measure VTh or Voc
 
-<img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
+
+![WhatsApp Image 2026-03-26 at 6 42 01 PM](https://github.com/user-attachments/assets/def9e7fe-2378-4bd2-ada7-7e03ee6404db)
+
 
 Thevenin’s equivalent circuit
 
-<img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+
+![WhatsApp Image 2026-03-26 at 6 42 08 PM](https://github.com/user-attachments/assets/23ed92a6-a6f4-4b34-b50f-a8e49ab9d282)
+
 
 
 **TABULATION**
-<img width="1277" height="1600" alt="image" src="https://github.com/user-attachments/assets/870f4306-8192-43c9-8538-0dfd7e3d3d9b" />
+
+![WhatsApp Image 2026-03-26 at 6 42 23 PM](https://github.com/user-attachments/assets/47113379-1fef-4a23-b96e-a921514e51cd)
+
 
 
 **CALCULATION**
-<img width="994" height="1600" alt="image" src="https://github.com/user-attachments/assets/e7b88c30-9b50-44f9-beff-ef8b1efabe46" />
+
+
+![WhatsApp Image 2026-03-26 at 6 42 33 PM](https://github.com/user-attachments/assets/f314bf45-d4ed-41de-9b6a-3e94c0a8edb6)
 
 
 
@@ -92,9 +102,12 @@ Thevenin’s equivalent circuit
 
 14.	
 **MARKSSPLITUP**
-<img width="1483" height="1029" alt="image" src="https://github.com/user-attachments/assets/c14c1a8d-6f9b-48a9-808e-d8b0a172df1c" />
+
+![WhatsApp Image 2026-03-26 at 6 44 44 PM](https://github.com/user-attachments/assets/c079c11a-db59-4236-ab90-4afcb71306ca)
+
 
 
 **RESULT**
-<img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/84204c2e-6ebf-497f-80f8-e2fb34d8d3c1" />
+
+![WhatsApp Image 2026-03-26 at 6 44 56 PM](https://github.com/user-attachments/assets/0fca3cc1-8a65-4902-9934-c49491d469a7)
 
